@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/axiomatique/',
   server: {
     port: 1420,
     strictPort: true,
