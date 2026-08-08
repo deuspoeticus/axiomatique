@@ -2,7 +2,7 @@
 
 rhythm-based survival platformer · 3d isometric · made in 24h without sleep \
 no game engine · no external assets · 100% procedural generation \
-best art prize in Beykent University BETA Game Jam II, 2026 \
+Best Art Prize in Beykent University BETA Game Jam II, 2026
 
 **[Play →](https://deuspoeticus.github.io/axiomatique)** \
 **[See on itch.io →](https://deuspoeticus.itch.io/axiomatique)**
@@ -15,7 +15,7 @@ best art prize in Beykent University BETA Game Jam II, 2026 \
 
 ## Concept
 
-Platform patterns are entirely driven by sound, practically functioning as a music notation system. Three lanes represent three different frequency bands — **BASS**, **MID**, and **HIGH** — and the level geometry is derived from the same procedural engine that generates the music. Levels and music share the same foundational axioms.
+Platform patterns are entirely driven by sound, practically functioning as a music notation system. Three lanes represent three different frequency bands (**BASS**, **MID**, and **HIGH**) and the level geometry is derived from the same procedural engine that generates the music. Levels and music share the same foundational axioms.
 
 ---
 
@@ -37,7 +37,7 @@ Platform patterns are entirely driven by sound, practically functioning as a mus
 
 ![sonar ping — chromatic aberration, cyan ring, platform reveal](screenshots/wG8T0I.png)
 
-*Sonar ping: fires a radial ring that reveals platform types on contact — at the cost of corruption.*
+*Sonar ping: fires a radial ring that reveals platform types on contact, at the cost of corruption.*
 
 ![kernel panic — 100% corruption, death screen](screenshots/7oAKcQ.png)
 
