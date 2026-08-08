@@ -1,10 +1,10 @@
 # AXIOMATIQUE
 
-> rhythm-based survival platformer · 3d isometric · made in 24h without sleep
-> no game engine · no external assets · 100% procedural generation
-> best art prize in Beykent University BETA Game Jam II, 2026
+rhythm-based survival platformer · 3d isometric · made in 24h without sleep \
+no game engine · no external assets · 100% procedural generation \
+best art prize in Beykent University BETA Game Jam II, 2026 \
 
-**[Play →](https://deuspoeticus.github.io/axiomatique)**
+**[Play →](https://deuspoeticus.github.io/axiomatique)** \
 **[See on itch.io →](https://deuspoeticus.itch.io/axiomatique)**
 
 ---
@@ -47,10 +47,9 @@ Platform patterns are entirely driven by sound, practically functioning as a mus
 
 ## Tech
 
-- **Three.js** — WebGL scene, instanced mesh rendering, isometric orthographic camera
-- **Web Audio API** — fully procedural hard techno / dubstep synthesiser; zero external assets
-- **Vite** — build tooling and dev server
-- **GitHub Actions** — CI/CD pipeline, auto-deploys to GitHub Pages on push to `main`
+- **Three.js** WebGL scene, instanced mesh rendering, isometric orthographic camera
+- **Web Audio API** fully procedural hard techno / dubstep synthesiser; zero external assets
+- **Vite** build tooling and dev server
 
 ---
 
