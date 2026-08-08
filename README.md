@@ -91,7 +91,7 @@ src/
 
 ### Audio engine
 
-The synth runs a 16-step scheduler at 16th-note resolution. BPM ramps from **100 → 200** across the session. Intensity (0 → 1) drives both layer entry thresholds and level difficulty in lockstep. All audio is synthesised in real time — zero samples, zero external files.
+The synth runs a 16-step scheduler at 16th-note resolution. BPM ramps from **100 → 200** across the session. Intensity (0 → 1) drives both layer entry thresholds and level difficulty in lockstep. All audio is synthesised in real time. Zero samples, zero external files.
 
 ### Post-processing pipeline
 
