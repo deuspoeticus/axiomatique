@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output (committed separately or via CI)
+dist/
+
+# Tauri desktop build artifacts
+src-tauri/target/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build logs
+build_log*.txt
